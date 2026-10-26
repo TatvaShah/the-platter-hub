@@ -20,7 +20,7 @@ export const site: SiteConfig = {
     headline: "Food platters, boxes and bowls for every occasion",
     subhead: "Pickup and delivery Thursday to Sunday. Order by Instagram DM with at least 24 hours notice.",
     images: [
-      { src: "/images/post-1.jpg", alt: "Food box by The Platter Hub" },
+      { src: "/images/post-3.jpg", alt: "Food by The Platter Hub" },
       { src: "/images/post-5.jpg", alt: "Platter by The Platter Hub" },
       { src: "/images/post-4.jpg", alt: "Food box from The Platter Hub" },
     ],
@@ -48,7 +48,6 @@ export const site: SiteConfig = {
   gallery: {
     title: "From the kitchen",
     items: [
-      { src: "/images/post-1.jpg", width: 1000, height: 1263, alt: "The Platter Hub food box", href: "https://www.instagram.com/p/DeXCemYFizo/" },
       { src: "/images/post-2.jpg", width: 640, height: 1136, alt: "The Platter Hub reel still", href: "https://www.instagram.com/reel/DVheW_ZlasZ/" },
       { src: "/images/post-3.jpg", width: 640, height: 1136, alt: "The Platter Hub reel still", href: "https://www.instagram.com/reel/De4mq07B4AP/" },
       { src: "/images/post-4.jpg", width: 640, height: 1136, alt: "The Platter Hub reel still", href: "https://www.instagram.com/reel/De0OHjkuYaU/" },
@@ -60,7 +59,7 @@ export const site: SiteConfig = {
 
   instagram: {
     handle: "theplatterhub_",
-    embeds: ["https://www.instagram.com/p/DeXCemYFizo/"],
+    embeds: ["https://www.instagram.com/reel/DeuecjeR5OB/"],
     embedsTitle: "Fresh from Instagram",
   },
 
